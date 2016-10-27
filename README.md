@@ -1,2 +1,2 @@
 # Softbody-testing
-experimenting with the softbody concpet in c++ and SFML
+experimenting with the concept of softbodies in c++ and SFML
